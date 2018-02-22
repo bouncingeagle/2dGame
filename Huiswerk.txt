@@ -1,0 +1,7 @@
+maak exe van visual studio, run het op een pc zonder visual studio
+
+maak cruiser die derived van cargo, en fighter
+owja maak een cargo en fighter
+
+maak shield class die vast zit aan cruiser met een pointer.
+engine class met pointers.
